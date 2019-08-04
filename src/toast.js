@@ -1,0 +1,1 @@
+export default message => window.M.toast({ html: message || 'Something has gone wrong :/' })
