@@ -1,5 +1,8 @@
 # Live @ https://omdb-react.herokuapp.com
 
+![omdb-react-app_edit_0](https://user-images.githubusercontent.com/23284052/62425683-831c9d00-b6e4-11e9-99bf-a6fcf8bc263f.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
